@@ -1,12 +1,12 @@
 asgiref==3.7.2
 certifi==2023.5.7
 charset-normalizer==3.2.0
-Django==4.2.3
+Django
 djangorestframework==3.14.0
 fuzzywuzzy==0.18.0
 idna==3.4
 Levenshtein==0.21.1
-python-dotenv==1.0.0
+python-dotenv
 python-Levenshtein==0.21.1
 pytz==2023.3
 rapidfuzz==3.2.0
